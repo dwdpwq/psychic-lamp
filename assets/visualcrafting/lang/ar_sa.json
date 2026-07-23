@@ -1,0 +1,20 @@
+{
+  "gui.visualcrafting.mode5.generate": "إنشاء سكريبت",
+  "gui.visualcrafting.mode5.label.food": "طعام",
+  "gui.visualcrafting.mode5.label.hunger": "جوع",
+  "gui.visualcrafting.mode5.label.saturation": "تشبع",
+  "gui.visualcrafting.mode5.label.potion_effects": "تأثيرات الجرعة",
+  "gui.visualcrafting.mode5.label.level": "مستوى",
+  "gui.visualcrafting.mode5.label.return_item": "عنصر الإرجاع",
+  "gui.visualcrafting.mode5.label.duration": "مدة",
+  "gui.visualcrafting.mode5.label.infinite": "لانهائي",
+  "gui.visualcrafting.mode5.status.need_item": "يرجى وضع عنصر في فتحة الطعام",
+  "gui.visualcrafting.mode5.status.file_not_found": "ملف السكريبت غير موجود، لا شيء للحذف",
+  "gui.visualcrafting.mode5.status.mod_block_not_found": "كتلة التعديل غير موجودة: %s",
+  "gui.visualcrafting.mode5.status.entry_not_found": "المدخل غير موجود: %s",
+  "gui.visualcrafting.mode5.status.entry_out_of_block": "المدخل خارج كتلة التعديل الحالية",
+  "gui.visualcrafting.mode5.status.deleted": "تم الحذف: %s",
+  "gui.visualcrafting.mode5.status.delete_failed": "فشل الحذف: %s",
+  "gui.visualcrafting.mode5.status.saved": "تم الحفظ: %s",
+  "gui.visualcrafting.mode5.status.generate_failed": "فشل الإنشاء: %s"
+}

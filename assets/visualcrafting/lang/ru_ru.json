@@ -1,0 +1,20 @@
+{
+  "gui.visualcrafting.mode5.generate": "Создать скрипт",
+  "gui.visualcrafting.mode5.label.food": "Еда",
+  "gui.visualcrafting.mode5.label.hunger": "Голод",
+  "gui.visualcrafting.mode5.label.saturation": "Насыщение",
+  "gui.visualcrafting.mode5.label.potion_effects": "Эффекты зелья",
+  "gui.visualcrafting.mode5.label.level": "Уровень",
+  "gui.visualcrafting.mode5.label.return_item": "Возврат",
+  "gui.visualcrafting.mode5.label.duration": "Длительность",
+  "gui.visualcrafting.mode5.label.infinite": "Бесконечно",
+  "gui.visualcrafting.mode5.status.need_item": "Поместите предмет в слот еды",
+  "gui.visualcrafting.mode5.status.file_not_found": "Файл скрипта не найден, нечего удалять",
+  "gui.visualcrafting.mode5.status.mod_block_not_found": "Блок мода не найден: %s",
+  "gui.visualcrafting.mode5.status.entry_not_found": "Запись не найдена: %s",
+  "gui.visualcrafting.mode5.status.entry_out_of_block": "Запись вне текущего блока мода",
+  "gui.visualcrafting.mode5.status.deleted": "Удалено: %s",
+  "gui.visualcrafting.mode5.status.delete_failed": "Ошибка удаления: %s",
+  "gui.visualcrafting.mode5.status.saved": "Сохранено: %s",
+  "gui.visualcrafting.mode5.status.generate_failed": "Ошибка генерации: %s"
+}

@@ -1,0 +1,41 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="Attribution-NonCommercial-ShareAlike 4.0 International"
+
+[[mods]]
+modId="visualcrafting"
+version="1.6.0"
+displayName="Visual Crafting Table"
+authors="Miracle_sever"
+
+displayURL="https://www.curseforge.com/minecraft/mc-mods/visualcrafting"
+issueTrackerURL="https://www.curseforge.com/minecraft/mc-mods/visualcrafting/issues"
+description="Visual Crafting Table: manage KubeJS recipes without writing code. Place items in a 3x3 grid and output slot, then click Shaped or Shapeless to auto-generate recipes. Right-side panel displays all saved recipes with scroll and right-click removal. The Delete Recipe button bans any item's crafting recipe via event.remove — ideal for modpack balancing. All changes sync to kubejs/server_scripts instantly."
+
+[[dependencies.visualcrafting]]
+modId="neoforge"
+type="required"
+versionRange="[21.1,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.visualcrafting]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.visualcrafting]]
+modId="kubejs"
+type="required"
+versionRange="[2101,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.visualcrafting]]
+modId="ae2"
+type="required"
+versionRange="[19.2,)"
+ordering="AFTER"
+side="BOTH"

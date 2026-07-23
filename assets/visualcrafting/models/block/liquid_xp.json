@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "particle": "visualcrafting:block/liquid_xp_still",
+    "still": "visualcrafting:block/liquid_xp_still",
+    "flow": "visualcrafting:block/liquid_xp_flow"
+  }
+}

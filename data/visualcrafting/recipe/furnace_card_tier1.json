@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEI",
+    "FGH"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    "B": {
+      "item": "minecraft:end_rod"
+    },
+    "C": {
+      "item": "ae2:red_lumen_paint_ball"
+    },
+    "D": {
+      "item": "ae2:cell_component_4k"
+    },
+    "E": {
+      "item": "minecraft:ancient_debris"
+    },
+    "I": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "F": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "G": {
+      "item": "minecraft:end_stone"
+    },
+    "H": {
+      "item": "minecraft:chorus_flower"
+    }
+  },
+  "result": {
+    "id": "visualcrafting:furnace_card_tier1",
+    "count": 1
+  }
+}

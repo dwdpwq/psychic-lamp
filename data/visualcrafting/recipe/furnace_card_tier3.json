@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "AEA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:nether_star"
+    },
+    "B": {
+      "item": "minecraft:dragon_egg"
+    },
+    "C": {
+      "item": "ae2:cell_component_64k"
+    },
+    "D": {
+      "item": "visualcrafting:furnace_card_tier2"
+    },
+    "E": {
+      "item": "minecraft:dragon_head"
+    }
+  },
+  "result": {
+    "id": "visualcrafting:furnace_card_tier3",
+    "count": 1
+  }
+}

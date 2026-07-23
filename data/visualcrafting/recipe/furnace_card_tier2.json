@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "AEA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "B": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "C": {
+      "item": "ae2:cell_component_16k"
+    },
+    "D": {
+      "item": "visualcrafting:furnace_card_tier1"
+    },
+    "E": {
+      "item": "minecraft:heart_of_the_sea"
+    }
+  },
+  "result": {
+    "id": "visualcrafting:furnace_card_tier2",
+    "count": 1
+  }
+}

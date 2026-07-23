@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "visualcrafting:liquid_xp",
+    "create:experience",
+    "sophisticatedbackpacks:xp_still",
+    "cofh_core:experience",
+    "mob_grinding_utils:fluid_xp",
+    "industrialforegoing:essence",
+    "pneumaticcraft:memory_essence",
+    "reliquary:xp_juice_still",
+    "cyclic:xpjuice"
+  ]
+}
